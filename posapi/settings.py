@@ -62,7 +62,6 @@ INSTALLED_APPS = [
     'django_celery_beat',
 
     'accounts',
-    'backtester',
 ]
 
 
