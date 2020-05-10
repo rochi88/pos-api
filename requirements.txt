@@ -1,0 +1,7 @@
+django
+gunicorn
+django-heroku
+django-cors-headers
+djangorestframework
+djangorestframework-simplejwt
+whitenoise
