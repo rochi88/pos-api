@@ -28,7 +28,7 @@ SECRET_KEY = 'r^q2y!0skd=t!z$ig5^psljjdndswe)02b80f8im1kkra1br2)4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
+ALLOWED_HOSTS = ['kolazpos.herokuapp.com','127.0.0.1', 'localhost']
 
 AUTH_USER_MODEL = "accounts.user"
 
